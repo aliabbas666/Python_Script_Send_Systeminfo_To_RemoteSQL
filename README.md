@@ -1,0 +1,1 @@
+# Python_Script_Send_Systeminfo_To_RemoteSQL
